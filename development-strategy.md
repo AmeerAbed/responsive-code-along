@@ -4,11 +4,14 @@
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
-| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
+| __Live Boilerplate__ | As an enthusiastic HYF student I can create the HTML structure so that i have a good semantic base to build upon | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file | mobile CSS code As an enthusiastic HYF student i can create the CSS code for for the mobile version so that i have a nice looking website on mobile none  basic rules for me
 |  | |  |  |
 | ... | ... | ... | ... |
 | (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
+As an enthusiastic HYF student I can create the HTML structure so that i have a good semantic base to build upon | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file | mobile CSS code As an enthusiastic HYF student i can create the CSS code for for the mobile version so that i have a nice looking website on mobile none  basic rules for me
 
+
+As an enthusiastic HYF student I can create the HTML structure so that i have a good semantic base to build upon | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file | tablet CSS code As an enthusiastic HYF student i can create the CSS code for for the mobile version so that i have a nice looking website on tablet none  basic rules for me
 
 ---
 ---
